@@ -13,7 +13,7 @@
 
 </div>
 
-I build the data pipelines that AI systems depend on, and I research how to make those systems reliable in health and safety settings. My work spans computer vision, retrieval-augmented generation, biomedical signals, and real-time data platforms. B.Sc. in Computer Science and AI, E-JUST. I am applying to MS programs in Data Science and Engineering.
+I build the data pipelines that AI systems depend on, and I research how to make those systems reliable in health and safety settings. My work spans computer vision, retrieval-augmented generation, biomedical signals, and real-time data platforms. B.Sc. in Computer Science and AI, E-JUST.
 
 ---
 
